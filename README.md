@@ -17,7 +17,7 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 
 ### Prerequisites
 
-This project is built with Node.JS and Yarn. Ensure these are installed before preceding.
+This project uses Vite, Node.js 22.12 or newer, and Yarn Classic.
 
 ### Installation
 
